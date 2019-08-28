@@ -1,0 +1,8 @@
+The commands I used in terminal for Git were...
+
+git init
+git add
+git status
+git commit -m "message here"
+git log
+git revert -n HEAD

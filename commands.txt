@@ -1,0 +1,10 @@
+The commands I use were..
+
+cd
+ls
+touch
+cd ..
+mkdir
+mv
+pwd
+rm -rf
